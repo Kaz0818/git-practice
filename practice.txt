@@ -1,0 +1,1 @@
+.gitignore練習用(rebaseブランチで修正)
